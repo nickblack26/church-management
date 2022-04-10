@@ -1,0 +1,6 @@
+.star::after {
+	content: '\22C6';
+	font-size: 3rem;
+	color: #55d17b;
+	height: 1rem !important;
+}
