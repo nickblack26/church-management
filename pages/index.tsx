@@ -1,38 +1,20 @@
 import { Church } from '../typings';
 import { collection, doc, getDoc, getDocs } from 'firebase/firestore';
 import { db } from '../firebase';
+import { getSession } from 'next-auth/react';
 
 interface Props {
 	church: Church;
+	session: any;
 }
 
-export default function Home({ church }: Props) {
-	const { name, email, number, campuses } = church;
-	return (
-		<div>
-			<div>{name}</div>
-			<div>{email}</div>
-			<div>{number}</div>
-			<h2>Campuses</h2>
-			{campuses.map((campus) => {
-				const { _id, name, street, city, state, zip } = campus;
-				return (
-					<div key={_id}>
-						<h3>{name}</h3>
-						<div>
-							{street}
-							<div>
-								{city}, {state} {zip}
-							</div>
-						</div>
-					</div>
-				);
-			})}
-		</div>
-	);
+export default function Home({ church, session }: Props) {
+	const { name, email, number, campuses, events, members, ministries } =
+		church;
+	return <div></div>;
 }
 
-export async function getServerSideProps() {
+export async function getServerSideProps(context) {
 	const churchRef = doc(db, 'churches', 'v7e7DRo9JTtUUqPp3ODW');
 	const churchInfo = await getDoc(churchRef);
 	const campusRef = collection(churchRef, 'campuses');
@@ -77,9 +59,12 @@ export async function getServerSideProps() {
 		members: JSON.parse(JSON.stringify(membersInfo)),
 	};
 
+	const session = await getSession(context);
+
 	return {
 		props: {
 			church,
+			session,
 		},
 	};
 }
