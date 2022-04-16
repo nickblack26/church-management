@@ -1,0 +1,9791 @@
+[
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/18/51",
+		"first_name": "Dave",
+		"full_name": "Dave Bellosa",
+		"gender": "M",
+		"image": "",
+		"last_name": "Bellosa",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(757) 613-1841",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/Sx34DiHAjJWF8V0axQAt",
+		"addresses": [
+			{
+				"street": "133 Peaceful Valley Trail",
+				"city": "Holly Lake Ranch",
+				"state": "Texas",
+				"zip": 75765,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "dave.bellosa1@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/21/70",
+		"first_name": "Juan",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Cabrera",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(203) 570-9800",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2833 Vista View Dr.",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jcabrera70@hotmail.com;jccab21@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "04/17/72",
+		"first_name": "Patricia",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Johnson",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(210) 241-0500",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3800 Grapevine Mills ",
+				"city": "Grapevine",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "hiker3214@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/07/90",
+		"first_name": "Gabby",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Huey",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(210) 262-1456",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "5408 Palmer Drive",
+				"city": "Haltom City",
+				"state": "Texas",
+				"zip": 76117,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Hueygabrielle@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/05/90",
+		"first_name": "Travis",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Titterington",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(210) 284-5674",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "13832 High Mesa",
+				"city": "Fort Worth ",
+				"state": "Texas",
+				"zip": 76262,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "travist0311@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/22/84",
+		"first_name": "Audrey",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Morris",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(210) 386-5752",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1309 5th Street",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Audrey.lammons@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/24/99",
+		"first_name": "Abigail",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Gennero",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Awaiting Baptism",
+		"numbers": [
+			{
+				"number": "(210) 978-4131",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "821 S. Polk St.",
+				"city": "Desoto",
+				"state": "Texas",
+				"zip": 75115,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "abbygennero@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/04/84",
+		"first_name": "Sarabeth",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Quattlebaum",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 207-6081",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "906 Becker Dr",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76039,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Sarabethq@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "11/05/66",
+		"first_name": "Jimmy",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Dejewski",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 207-8126",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1511 Harpole Rd",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "JMDejewski@Hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/21/89",
+		"first_name": "Madelyn",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Egli",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 208-6504",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4770 Parkmount Dr.",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76137,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "evie3211@mac.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/22/68",
+		"first_name": "Ruth",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Skipper",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 213-5559",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2520 Carmel Drive",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75006,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Skipperruth@comcast.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/20/71",
+		"first_name": "Monica",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Storm",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 213-8742",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "944 Water Oak Dr.",
+				"city": "Grapevine",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "monica.storm@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/28/71",
+		"first_name": "Christopher",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Potter",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 215-2976;(214) 436-2353",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "512 Layton Dr.",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "chrissp222@yahoo.com;hglaurie@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/20/67",
+		"first_name": "Robert",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Deisher",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 215-6023",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1505 Doubletree Trl",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "rdeisher1@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "02/17/79",
+		"first_name": "Maria",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Starnes",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 218-7064",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "13901 Chaparral Lane",
+				"city": "Roanoke",
+				"state": "Texas",
+				"zip": 76262,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mariaestarnes@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/30/86",
+		"first_name": "Kelli",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Spragins",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 223-3164",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3276 Tarrant Ln",
+				"city": "Plano",
+				"state": "Texas",
+				"zip": 75025,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "spraginsk@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/28/72",
+		"first_name": "Shay",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Moore",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 223-9089",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "165 Springfield Bend",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "sogo242@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "06/13/91",
+		"first_name": "Will",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Moore",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 223-9622;(214) 417-1534",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1635 Rocky Point Dr.",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75077,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "missyshaymoore@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/15/93",
+		"first_name": "Matt",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Moore",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 229-5451",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "396 E Southwest Pkwy",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mm343126@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/23/65",
+		"first_name": "Mike",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Oswalt",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 232-0899",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2611 Pebblebrook St",
+				"city": "Arlington",
+				"state": "Texas",
+				"zip": 76014,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mroswalt@sbcglobal.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/09/77",
+		"first_name": "Ijeoma",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Nnamani",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 235-5268",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4108 Beacon St. ",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ijennamani@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "07/04/76",
+		"first_name": "Alessandra",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Tooley",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 235-7311",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1604 Pearl River Dr",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "allytooley@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "03/01/68",
+		"first_name": "Christy",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Gall",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 244-2238",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2709 Lake Ville Lane",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "christy@printandbrandit.com;cj_gall@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "11/22/63",
+		"first_name": "Robbie",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Peek",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 244-2845;(972) 745-6824",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "678 Hollow Ridge Pl",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "r-peek@ti.com;r-peek@tx.rr.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/13/70",
+		"first_name": "Dena",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Light",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 244-6838",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "316 Auburn Way",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "denamlight@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "06/27/77",
+		"first_name": "Marie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Castro",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 277-4853",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2012 Estrada PkwyApt. #202",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75061,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "vmariecastro@aol.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/12/84",
+		"first_name": "Kandace",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Wilcox",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 284-7680",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1416 Marblecrest Dr. ",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mrsmommywilcox@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/10/73",
+		"first_name": "Tim",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "West",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 287-0017",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3772 Vancouver Dr",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75229,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "tcwest73@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/06/79",
+		"first_name": "Andrea",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Watson",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 288-4524",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "509 W. L.D. Lockett Rd. ",
+				"city": "Colleyville ",
+				"state": "Texas",
+				"zip": 76034,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "watsyjunk@gmail.com;andrea.watson@leykell.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "05/29/69",
+		"first_name": "Vincent",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Tooley",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 288-4669;214884669",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1604 Pearl River Dr",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "dentonfire153@icloud.com;Allytooley@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/16/98",
+		"first_name": "Christopher",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Kirfman",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 298-0283",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2701 Shelter Grove Road",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76131,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ckirfman98@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/14/86",
+		"first_name": "Oscar",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Ulloa",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 298-3734",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "9944 Walnut St ",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75243,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "oscaru0509@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/18/46",
+		"first_name": "Thom",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Henry",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 315-5693",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "504 Maverick Drive Lake",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75065,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "thenry@henry-cornell.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/11/52",
+		"first_name": "Glory",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Richardson",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 317-9169",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "455 Highland DrApt #1403",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "g.frisco07@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/17/71",
+		"first_name": "Jeffrey",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Hazelwood",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 325-7805",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2336 Collin Dr.",
+				"city": "Grand Prairie",
+				"state": "Texas",
+				"zip": 75052,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jeff1616@sbcglobal.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/25/70",
+		"first_name": "Andre",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Landry",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 325-8567",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2024 Sancerre Ln",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75007,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "3n1promos@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/15/74",
+		"first_name": "Kim",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Penny",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 334-5327",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1709 Rockcreek Court",
+				"city": "Flowermound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "klpenny15@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/11/66",
+		"first_name": "David",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Hensley",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 335-4026",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4440 Timber Crest Ct.",
+				"city": "Grapevine",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "davide.hensley@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "05/02/77",
+		"first_name": "Gareth",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Jenkins",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 384-1843",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "304 Cosbie Dr",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75063,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mistergareth@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/20/97",
+		"first_name": "Decker",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Branch",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 384-2265",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1404 Trinity Ct",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "decker_branch@baylor.edu",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/26/65",
+		"first_name": "Jane",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Athey",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 384-2842;(214) 358-3778",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4165 Creekdale Dr.",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75229,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "studiojane@sbcglobal.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/04/74",
+		"first_name": "Lydia",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Irwin",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 394-8738",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "301 Mosswood Dr. ",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "tandlirwin@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "06/19/76",
+		"first_name": "Amy",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Chapman",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 395-3327",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "770 Fairway Dr",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "aschapman76@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/06/85",
+		"first_name": "Gersain",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Pantaleon",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 400-4654",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2305 Newcastle Dr",
+				"city": "Garland",
+				"state": "Texas",
+				"zip": 75041,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "pantaleon.gersain@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/03/65",
+		"first_name": "Stephanie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Maday",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 402-0318",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3741 Quail Hollow St.",
+				"city": "Celina",
+				"state": "Texas",
+				"zip": 75009,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "sjx3maday@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/17/80",
+		"first_name": "Melissa",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Tijerina",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 403-4797",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2715 Whitby Ln",
+				"city": "Grapevine",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "robntijerina@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/03/59",
+		"first_name": "Jana",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Ramsdale",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 405-5559",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "470 Cross Timbers Dr",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75077,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jamnjana@mindspring.com;therams@mindspring.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/02/79",
+		"first_name": "Jenni",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "West",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 415-5005",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3772 Vancouver Dr",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75229,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jenniwest79@icloud.com;jennivincent@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/23/74",
+		"first_name": "Deborah",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Lynas",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 417-0412",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1803 Palace Ct",
+				"city": "Corinth",
+				"state": "Texas",
+				"zip": 76210,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "deborahdietrich@hotmail.com;123islandgirl@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/24/93",
+		"first_name": "Elena",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Kee",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 431-7711",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "12736 Breckenridge Ct",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76177,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "elenakeepiano@gmail.com;elena@elenakee.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/10/78",
+		"first_name": "Melanie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Meeks",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 448-7399",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1000 Windmill Ln",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75061,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "brandonandmelanieinatree@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/05/75",
+		"first_name": "Nahum",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Razo",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 455-5331",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "6830 Woodard Ave",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75227,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "nrazo57@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "02/23/79",
+		"first_name": "Melissa",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Zamora",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 458-7288",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3507 Chicago St.",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75212,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "zamoramelissa23@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/21/93",
+		"first_name": "Erik",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Monreal",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 460-3346",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2606 Kayli Lane",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76039,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "monrealerik@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/02/91",
+		"first_name": "Hilary",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Witt",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 475-9650",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1613 Hendrix Drive ",
+				"city": "Irving ",
+				"state": "Texas ",
+				"zip": 75061,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Hilary.witt@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/29/57",
+		"first_name": "Christian",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "D'Alesandro",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 476-7928",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4517 Crown Knoll Circle",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "crd5176@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/18/76",
+		"first_name": "James",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Mann",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 488-3750",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2011 Hidden Trail Dr.",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "grendyll@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/03/81",
+		"first_name": "Johnny",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Galindo",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 489-8420",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1020 Comfort Dr",
+				"city": "Forney",
+				"state": "Texas",
+				"zip": 75126,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Jmgalindodad@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "03/06/89",
+		"first_name": "Crystal",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Cuenca",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 493-0875",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2765 Cookscreek Pl",
+				"city": "Farmers Branch",
+				"state": "Texas",
+				"zip": 75234,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "thecuencas1105@gmail.com;crystalmcuenca@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/07/65",
+		"first_name": "kim",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "messick",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 493-6784",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3805 Long Meadow Dr",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "kmcgough8@gmil.com;kmcgough8@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/12/69",
+		"first_name": "Darian",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Pickett",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 497-4197",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4005 Baldomera St",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "dpickett@acosta.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/30/79",
+		"first_name": "Wendy",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Pickett",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 497-4198",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4005 Baldomera St",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "wendycpickett@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/18/83",
+		"first_name": "Jenna",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Macdonald",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Awaiting Baptism",
+		"numbers": [
+			{
+				"number": "(214) 499-0470",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "777 Lake Carolyn Pkwy",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75039,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jennam1522@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "11/17/78",
+		"first_name": "Francesca",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Martinez",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 499-3027",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "714 N Bishop Ave",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75208,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "francesca_nicole413@yahoo.com;francescanmartinez@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/28/74",
+		"first_name": "Robert",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Brown",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 500-0952",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "744 Willow Oak Dr",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "rgjlbrown4@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/03/89",
+		"first_name": "Graham",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Tanner",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 500-4443",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "969 Pintail Ct",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "graham.tanner@utexas.edu",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/17/64",
+		"first_name": "Stephen",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Foss",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 500-7004",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "951 Oak Hill Ct ",
+				"city": "Cross Roads",
+				"state": "Texas",
+				"zip": 76227,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "s_foss@att.net;s_foss@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/15/93",
+		"first_name": "Danielle",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Russell",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 502-3765",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4001 S Broadway Ave. 1137",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "danielle.russell@themixfc.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/20/93",
+		"first_name": "Mary",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Lara",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 524-1437",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2524 Cantrell S",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75062,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "maryjanedae@icloud.com;Marialara8913@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/31/61",
+		"first_name": "Monte",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Sturgeon",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 529-2819",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "216 Sleepy Hollow Ln.",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "montesturgeon@live.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "06/29/91",
+		"first_name": "Luis",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Reyes",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 529-5929",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "403 N Britain Rd",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75061,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "luireyes1@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "11/20/77",
+		"first_name": "Amber",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Hyde",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 529-6861",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Dr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1128 Blue Lake Blvd.",
+				"city": "Arlington",
+				"state": "Texas",
+				"zip": 76005,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "amberhyde@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/09/75",
+		"first_name": "Laurie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Robbins",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 529-9568;(214) 529-9568",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1116 Quail Dove Dr.",
+				"city": "Little Elm",
+				"state": "Texas",
+				"zip": 75068,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "lemurkidz@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "05/23/92",
+		"first_name": "Stephanie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Haselroth",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 532-2146",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "321 Spring Oak Ln",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "stephanieHaselroth10@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/06/67",
+		"first_name": "Beverly",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Gambell",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 533-2157",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2165 Cardinal Blvd",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75010,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "gambellbev@hmail.com;gambellbev@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "02/28/73",
+		"first_name": "Brandy",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Johnston",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 533-2294",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4715 Iberia Ave.",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75207,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "brandy.johnston.rn@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/22/76",
+		"first_name": "Kirt",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Phillips",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 535-1225",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1200 Lambeth Lane",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75056,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "kirtjp@hotmail.com;kirt@dallascountryclub.org",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/10/74",
+		"first_name": "Erik",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Nelson",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 535-3370",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1708 Wildflower Trl",
+				"city": "Grapevine",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "erikjonnelson@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "05/14/60",
+		"first_name": "Diane",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Devendorf",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 537-8621",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3517 Windhaven PkwyApt. #2409",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75056,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "4dianedevendorf@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/22/74",
+		"first_name": "Angela",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Coleman-Drake",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 537-9268;(972) 417-9647;(972) 838-9097",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3604 Cottonwood Rd",
+				"city": "Melissa",
+				"state": "Texas",
+				"zip": 75454,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "vincedrake@gmail.com;angeladcoleman@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/10/78",
+		"first_name": "Cynthia",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Speegle",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 537-9351",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "209 Foreman Dr",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76039,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "cynthiaspeegle510@gmail.com;cynthiahilld7@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "07/25/70",
+		"first_name": "Michael",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Barshinger",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 538-6832",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1413 Currant Way",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "michael.barshinger@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "04/14/65",
+		"first_name": "Jacqueline",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Flores",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 543-6838;697345",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1217 Trinity View St",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75060,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "justjackie14@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/21/72",
+		"first_name": "Nikki",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Nelson",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 546-2432",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1708 Wildflower Trl",
+				"city": "Grapevine",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "n2photo@earthlink.net;erikjonnelson@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/28/56",
+		"first_name": "Patti",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Fuller",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 546-4431",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1317 Hat Creek Trl",
+				"city": "Southlake",
+				"state": "Texas",
+				"zip": 76092,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "pfwf2@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/03/70",
+		"first_name": "Taffney",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Miller",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 549-2104",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "317 Brock St",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "taffy@petemillercpa.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/05/75",
+		"first_name": "Allison",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Nichols",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 556-7397",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "406 Oak Leaf Drive ",
+				"city": "Duncanville",
+				"state": "Texas",
+				"zip": 75137,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "nicholsallison5@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/09/53",
+		"first_name": "David",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Page",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 563-6953;(972) 304-0854",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "205 Magnolia Dr",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "david@trpage.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/22/59",
+		"first_name": "Timothy",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Matthews",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 566-0843",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "10726 Cox Ln",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75229,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "tvtimm@aol.com;tvtimm@aol.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/08/64",
+		"first_name": "Richard",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Holmes",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 566-3002",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2505 Briar Forest Dr ",
+				"city": "Denton",
+				"state": "Texas",
+				"zip": 76210,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "rholmes1964@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/13/61",
+		"first_name": "Stan",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Fredrick",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 577-1121",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4717 Hampshire Dr",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "stanfredrick@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "06/23/82",
+		"first_name": "Nathaniel",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Gard",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 578-3900",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "215 Equestrian Rd",
+				"city": "Hickory Creek",
+				"state": "Texas",
+				"zip": 75065,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ngard943@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/26/82",
+		"first_name": "Melissa",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Salinas",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 584-4046;(214) 587-3589",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1038 Pebblebrook Dr",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "myvonne82@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/08/97",
+		"first_name": "Hunter",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Savadove",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 585-9704",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "9175 Aristocrat Ln. ",
+				"city": "Frisco",
+				"state": "Texas",
+				"zip": 75033,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Ycgccbeer@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "06/29/83",
+		"first_name": "Kristen",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Guyden",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 587-4689",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2057 W Hebron Pkwy",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75010,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "kristen.guyden@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/05/81",
+		"first_name": "Vicky",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Figueroa",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 592-5654",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1301 Sand Verbena Way",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76177,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "thefigs04@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/13/71",
+		"first_name": "Meshea",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Matthews",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 597-1971",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "10726 Cox Ln",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75229,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "papermeshea@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "03/27/72",
+		"first_name": "Jodi",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Millsap",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 603-6951",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "906 Hardage Lane",
+				"city": "Colleyville",
+				"state": "Texas",
+				"zip": 76034,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jodiamillsap@gmail.com;jodicalt@aol.com;scott.millsap@huffines.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "11/27/95",
+		"first_name": "Karena",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Brown",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 606-0355",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "13030 Aydekua Rd",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75243,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "karmar8@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/29/78",
+		"first_name": "Shannon",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Phillips",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 606-9988;(817) 581-2656",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1200 Lambeth Lane",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75056,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "sleighphillips@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "07/24/72",
+		"first_name": "Camisha",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Traylor",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 608-4111",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4690B Rhett Lane ",
+				"city": "Carrollton ",
+				"state": "Texas",
+				"zip": 75010,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "camisha724@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "03/13/76",
+		"first_name": "Jason",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Cowell",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 612-8126",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "11808 Warbler Lane ",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76244,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jasoncowell32@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/30/91",
+		"first_name": "Darquelle",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Davis",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 622-0482",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2109 Laurel Ln",
+				"city": "Plano",
+				"state": "Texas",
+				"zip": 75075,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "darquelledavis@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/18/75",
+		"first_name": "Tim",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Kloepping",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 625-9012",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "139 Moonlight Dr",
+				"city": "Murphy",
+				"state": "Texas",
+				"zip": 75094,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "tkloepping@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "04/22/82",
+		"first_name": "Jamie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Barron",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 629-3705",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1103 Sunny Creek Ln",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76040,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jamiebarron00@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/24/76",
+		"first_name": "Hailey",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Fires",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 629-9597",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2317 Red Maple Rd. ",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Hyo1998@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/14/61",
+		"first_name": "Wendell",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Elms",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 629-9799",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1924 Canvasback Lane",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "wendell.elms3@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/08/74",
+		"first_name": "Heather",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Langdon",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 632-7178",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3033 hamlet ct",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "heatherlyon19@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/15/80",
+		"first_name": "Amanda",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Goodwin",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 636-5412",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1716 Ivy Ln",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75007,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "argpete@gmail.com;revisgoodwin@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "04/24/49",
+		"first_name": "Tony",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Boulton",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 636-5675",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1832 Maya Dr ",
+				"city": "Lantana",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "boultonus@aol.om;boultonus@aol.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "11/10/84",
+		"first_name": "David",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Hertenstein",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 636-9287",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2714 Point Vista Dr",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "david@dfguy.com;david@libertylab.us",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/07/67",
+		"first_name": "Tim",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Herron",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 642-3526",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "117 Dickens Dr",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "tjh956@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "11/05/67",
+		"first_name": "Dena",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Rambo",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 649-8243",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1715 Sunset Ridge Dr",
+				"city": "Grand Prairie",
+				"state": "Texas",
+				"zip": 75050,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "dena.rambo@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/06/99",
+		"first_name": "Brandon",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Pressley",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 659-3364",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "704 Dover Heights Trl",
+				"city": "Mansfield",
+				"state": "Texas",
+				"zip": 76063,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "bp188282@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/22/96",
+		"first_name": "Brooklyn",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Windham",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 674-8960",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "195 Cove Dr",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "brooklynwindham22@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "11/22/70",
+		"first_name": "Cindy",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Beasley",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 675-3637",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "861 Crestview Dr",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "cbeasleyrn@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/27/60",
+		"first_name": "Tammara",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "VerDuin",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 676-2975",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "821 Crane Dr.",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "lollygagger93@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "11/08/78",
+		"first_name": "Jana",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Schleif",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 676-4389",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "113 Brentwood Cir",
+				"city": "Southlake",
+				"state": "Texas",
+				"zip": 76092,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Janlea@aol.com;eschleif@nrfc.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/18/77",
+		"first_name": "Shakarus",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Sanders",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 676-8894",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "819 S Main St",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76040,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "shakarussanders@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/17/63",
+		"first_name": "Brenda",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Kampe",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 677-3819",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1773 Massey Dr",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "brendaboo5353@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "06/20/89",
+		"first_name": "Patrick",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Ortega",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 679-6019",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "18950 Lina St",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75287,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ortegas27@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/02/94",
+		"first_name": "Hannah",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Watts",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 680-8081",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "7274 Yellowstone drive",
+				"city": "Frisco",
+				"state": "Texas",
+				"zip": 75033,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Hannah.watts94@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/21/84",
+		"first_name": "Blake",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Goff",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 682-7986",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1605 Shumac Ln ",
+				"city": "Bedford",
+				"state": "Texas",
+				"zip": 76022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "blake.goff@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/19/71",
+		"first_name": "Lisa",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Mathis",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 683-1327",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "431 Saddle Tree Trl",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Lmathis98@gmail.com;mathisfamily5@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/10/77",
+		"first_name": "Nicole",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Watkins",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 683-9372",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "601 Raven Ln",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ashlyw77@msn.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/16/66",
+		"first_name": "Samuel",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Goodwin",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 684-7779",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1716 Ivy Ln",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75007,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "argpete@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "03/03/47",
+		"first_name": "Gayle",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Ward",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 686-2295",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "334 Hillcroft Drive",
+				"city": "Duncanville",
+				"state": "Texas",
+				"zip": 75137,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "gayle.war@gmailc.com;gayle.ward@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "06/12/89",
+		"first_name": "Angela",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Shuler",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 687-8479",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1706 Elizabeth Dr",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75007,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "angelalshuler@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "11/20/85",
+		"first_name": "Christohper",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Johns",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 693-5618",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1000 E. Ash Ln",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76039,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "chrisjr.25@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "05/17/63",
+		"first_name": "Esther",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Zwaaf",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 693-9735",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3308 Sombrero Dr.",
+				"city": "Denton",
+				"state": "Texas",
+				"zip": 76210,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ezwaaf@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "11/19/81",
+		"first_name": "Cyndi",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Tarlton",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Awaiting Baptism",
+		"numbers": [
+			{
+				"number": "(214) 695-7810",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2029 San Marino Ln ",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75077,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "cyndicaye19@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/24/67",
+		"first_name": "Kim",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Brown",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 697-8259",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "409 Saint Tropez Dr.",
+				"city": "Southlake",
+				"state": "Texas",
+				"zip": 76092,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "calvertbrown@me.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/12/73",
+		"first_name": "Justin",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Brumley",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 697-8861",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3209 Wareham Ln",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "justin.brumley@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/19/57",
+		"first_name": "Sueda",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Brewer",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 704-6786",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1700 Driskill Dr",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75038,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "suedafbrewer@gmail.com;sueda.f.brewer@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/06/34",
+		"first_name": "Joyce",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Powell",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 714-4129",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2960 Park Square Dr",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75060,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jpowell@dcccd.edu",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/13/61",
+		"first_name": "Maureen",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Kersey",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 724-1749",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4218 Phoenix Dr",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75010,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "maureenk1313@aol.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/07/74",
+		"first_name": "Claudia",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Torres",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 725-0447;(972) 730-3814",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "5113 Shallow Pond Dr.",
+				"city": "Aubrey",
+				"state": "Texas",
+				"zip": 76227,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Msclaudialramirez@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "11/30/77",
+		"first_name": "Kellie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Harrison",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 725-2792",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "8804 Falcon Crest",
+				"city": "McKinney",
+				"state": "Texas",
+				"zip": 75070,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "kellieharrison@sbcglobal.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/03/72",
+		"first_name": "Karen",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Hicks",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 725-9469",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "5104 Saddle Dr",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "karenyvonnehicks@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/20/75",
+		"first_name": "Amy",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Shifflett",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 727-5577",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2224 Ridgecrest Trail",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75007,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "amyrshifflett@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/01/01",
+		"first_name": "Haven",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Tapia",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 727-5710",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "726 Dixon Drive",
+				"city": "Irving ",
+				"state": "Texas",
+				"zip": 75061,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "haventapia5@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/28/74",
+		"first_name": "Liz",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Dimos",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 728-3535",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4105 Williams Ct",
+				"city": "Grapevine",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "lizdimos@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/25/62",
+		"first_name": "Roger",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Taube",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 731-6573",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1610 Malibu Dr",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75006,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "taubensie@aol.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/25/66",
+		"first_name": "Will",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Woods",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 733-9239",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "10801 Sycamore Falls Dr",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "willwoods@outlook.com;mswill@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/30/90",
+		"first_name": "Jake",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Fearing",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 734-5652",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "8825 Honeysuckle Dr",
+				"city": "Lantana",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jakefearing@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/23/65",
+		"first_name": "Ruben",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Avila",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 735-6625",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "628 Berkley Dr",
+				"city": "Grapevine ",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "rubenavila.421@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/13/64",
+		"first_name": "Marie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Cortinas",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 738-3816",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3717 Comal Dr",
+				"city": "Oak Point",
+				"state": "Texas",
+				"zip": 75068,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mariecortinas64@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/09/78",
+		"first_name": "Marnie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Futch",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 762-7910",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "6517 Shadywood Dr",
+				"city": "Frisco",
+				"state": "Texas",
+				"zip": 75035,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "futchj@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "07/10/63",
+		"first_name": "Frances",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "McCullough",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 769-0233",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "106 N. Denton Tap RdSuite 210-112",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Franrsmith12@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/06/91",
+		"first_name": "Sabrina",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Wimp",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 773-2759",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "605 Trails End Court",
+				"city": "Hurst",
+				"state": "Texas",
+				"zip": 76054,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Sabrinamwimp@gmail.com;sabrina01150@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/02/68",
+		"first_name": "Greg",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Jackson",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 773-4921",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "6208 Glen Echo Lane",
+				"city": "Arlington",
+				"state": "Texas",
+				"zip": 76001,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ggjacks5@att.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/06/80",
+		"first_name": "Angie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Gomez",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 779-1389",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3813 Cemetery Hill Rd.  ",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75007,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "abcardoso0606@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/05/81",
+		"first_name": "Lindsay",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Carpenter",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 783-3738",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3820 Redwood Creek Ln",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76137,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "lcarp@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/24/90",
+		"first_name": "Stefni",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Petrock",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 783-4943",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2028 Kickapoo Trl",
+				"city": "Heartland",
+				"state": "Texas",
+				"zip": 75126,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "smcanally5@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/06/81",
+		"first_name": "Aryanya",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Alvarez",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 783-5483",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "5516 Portola Ln",
+				"city": "Denton",
+				"state": "Texas",
+				"zip": 76208,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "alvarez322.a@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/24/73",
+		"first_name": "Brett",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Jackson",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 783-6269",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2101 King Forest Lane",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "bbjpro.jackson@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/05/59",
+		"first_name": "David",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Curtis",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 783-7805",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "155 Shiloh Ct. ",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "david.curtis@mail.com;david.curtis@crossmark.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "04/29/97",
+		"first_name": "Ariel",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Eason",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 783-9216",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4312 Cassandra Dr ",
+				"city": "Flower Mound ",
+				"state": "Texas",
+				"zip": 75022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ariel.eason@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/09/95",
+		"first_name": "Lavon",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Erwin",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Awaiting Baptism",
+		"numbers": [
+			{
+				"number": "(214) 783-9776",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4001 Pin Oak Terr",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76040,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "lavonerwin@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "11/28/63",
+		"first_name": "Sarah",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Wilson",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 789-2199",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1413 Saint Francis Ln",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "tomthymeswife@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/24/85",
+		"first_name": "Joshua",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Dean",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 789-6627",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "340 Brown Dr",
+				"city": "irving",
+				"state": "Texas",
+				"zip": 75061,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "joshddean@me.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "05/02/89",
+		"first_name": "Blake",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Cox",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 794-7768",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1536 Terrace Dr",
+				"city": "Lantana ",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "blake.yellowblue@gmail.com;bcox4@patriots.uttyler.edu",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/01/80",
+		"first_name": "Edgar",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Chavira",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 796-6201",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2125 Daniel Way",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75006,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "echavi80@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/07/82",
+		"first_name": "Katherine",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Saulters",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 797-0258",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1117 9th St",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "katiesaulters@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/27/67",
+		"first_name": "David",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "VonZurmuehlen",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 797-9866",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "301 Forest Crest",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "david@vonz.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/27/83",
+		"first_name": "Amanda",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Gard",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 801-4630",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "215 Equestrian Rd",
+				"city": "Hickory Creek",
+				"state": "Texas",
+				"zip": 75065,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "amandalgard@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "02/23/68",
+		"first_name": "Steven",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Weaks",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 802-5564",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "601 Sandalwood Ct",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "sweaks601@tx.rr.com;steve.weaks@interstatehotels.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/03/92",
+		"first_name": "Devante",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Goode",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 815-3777",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1612 Chattanooga Pl",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75235,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "devantedeshon@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/09/83",
+		"first_name": "Jasmine",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Jackson",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 815-9397;(214) 815-9347",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2101 King Forest Lane",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jalique09@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "03/28/52",
+		"first_name": "Vincent",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Drake",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 850-3333",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3604 Cottonwood Rd",
+				"city": "Melissa",
+				"state": "Texas",
+				"zip": 75454,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "vincedrake@gmail.com;vincedrake@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/15/68",
+		"first_name": "Russel",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Hicks",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 850-3482",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "5104 Saddle Dr",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "russelhicks1968@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/13/95",
+		"first_name": "Paige",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Faulkner",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 868-3565",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1100 Meredith Ln",
+				"city": "Plano",
+				"state": "Texas",
+				"zip": 75093,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "paige.faulkner@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "03/26/39",
+		"first_name": "Donald",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Perkins",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 882-9111",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "601 Crest Ridge Dr",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75061,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "doneperkins@verizon.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/29/85",
+		"first_name": "Lexi",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Blackmon",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 883-7854",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1220 Indian Run Dr. ",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75010,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "alexi_blackmon@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/25/81",
+		"first_name": "Kate",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Rodriguez",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 886-0603",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4107 Kirkmeadow Lane",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75287,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "kate@johnnyrodriguezsalon.com;kater@johnnyrodriguezsalon.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/31/68",
+		"first_name": "Mike",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Napurano",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 893-1118",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "508 Spinnaker Dr",
+				"city": "Allen",
+				"state": "Texas",
+				"zip": 75013,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mike@napurano.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/16/96",
+		"first_name": "Kimberly",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Rogers",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 897-1880",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "501 Meadowood Ln",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "kimberly.lace.rogers@icloud.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/01/81",
+		"first_name": "Maximilian",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Dubois",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 897-9380",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1500 Plantation Oaks Drive #2902",
+				"city": "Trophy Club ",
+				"state": "Texas",
+				"zip": 76262,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mdubois8181@gmail.com;amanda.dubois@iprospect.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/23/98",
+		"first_name": "Jared",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Gambell",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 906-6966",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "300 E Swisher Rd. ",
+				"city": "Lake Dallas ",
+				"state": "Texas",
+				"zip": 75065,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jaredblakegambell@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/23/00",
+		"first_name": "Nicholas",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "White",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Awaiting Baptism",
+		"numbers": [
+			{
+				"number": "(214) 908-2295",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2609 Brookside Drive",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75063,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "whitenick07@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/01/68",
+		"first_name": "Tianne",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Moon",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 908-9799",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "323 Collins St",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "tianne.moon@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/31/82",
+		"first_name": "Brandon",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Alford",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 912-7898",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "810 Prairie View Ct",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "alford_chevrolet@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/24/46",
+		"first_name": "Allan",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Crawford",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 914-4895",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2717 Douglas Ave",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75062,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "acrawford2717@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/13/71",
+		"first_name": "Staci",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Chavez",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 923-0383",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "8701 Canyon Crossing",
+				"city": "Lantana",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "stacichris@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/24/85",
+		"first_name": "Adelina",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Medina",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 924-8182",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1020 Comfort Dr",
+				"city": "Forney",
+				"state": "Texas",
+				"zip": 75126,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "adelinam424@gmail.com;jmgalindodad@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "02/18/76",
+		"first_name": "Michelle",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Amos Young",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 926-0644",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "900 Place Louie ",
+				"city": "Desoto",
+				"state": "Texas",
+				"zip": 75115,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "chella4success@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/14/98",
+		"first_name": "Cynthia",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Cortez",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 929-0814",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2938 Selma Ln",
+				"city": "Farmers Branch",
+				"state": "Texas",
+				"zip": 75234,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ccynthia1426@gmail.com;ccynthia1498@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "06/26/99",
+		"first_name": "Marisol",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Aviles",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 929-3017",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2938 Selma Lane",
+				"city": "Farmers Branch",
+				"state": "Texas",
+				"zip": 75234,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "msol4339@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/31/70",
+		"first_name": "Adriana",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Faulkner",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 929-5710",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2406 Meadow Creek",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75006,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "adrianaarrieta@sbcglobal.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/10/97",
+		"first_name": "Christopher",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Kelton",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 929-7538",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1341 Green Hills Ct",
+				"city": "Duncanville",
+				"state": "Texas",
+				"zip": 75137,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Horseshoeingbyj@sbcglobal.net",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "06/05/97",
+		"first_name": "Caleb",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Turner",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 934-1155",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "549 Shadowcrest Ln",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "caleb@aboundsoftware.com;caleb.turner@fellowshipchurch.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/21/97",
+		"first_name": "Sydney",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Hatfield",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 949-3669",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "104 Ellicott Dr",
+				"city": "Roanoke",
+				"state": "Texas",
+				"zip": 76262,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "sydneyhatfield82@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/30/84",
+		"first_name": "Amber",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Alford",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(214) 957-8808",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "810 Prairie View Ct",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "amberstrange@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/09/93",
+		"first_name": "David",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "De La Pena",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 971-1481",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "411 S. Montclair Ave",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75208,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "daaviddelapena@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/15/65",
+		"first_name": "David",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Jarvis",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 973-9825;(469) 995-1088",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3627 Oakwood Dr",
+				"city": "Grapevine",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jarvismel1@gmail.com;Jarvisd@frontier.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "07/16/67",
+		"first_name": "Martha",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "McGraw",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 984-4782",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1895 Cliff View Dr",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75077,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mod71667@msn.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "11/14/79",
+		"first_name": "Staci",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Durik",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 984-8330",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "403 Bent Creek Cove",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "stacidurik@me.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/23/69",
+		"first_name": "Derek",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Rambo",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 986-7781",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1715 Sunset Ridge Dr",
+				"city": "Grand Prairie",
+				"state": "Texas",
+				"zip": 75050,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "drambo@leupold.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/22/90",
+		"first_name": "Chris",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Kee",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 995-4570",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "12736 Breckenridge Ct",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76177,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "chris@chriskee.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/27/71",
+		"first_name": "Sharon",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Hicks",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 995-6045",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "413 Hawthorne St",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75061,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "shicks001@tx.rr.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "12/14/70",
+		"first_name": "Glen",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Jacobs",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(214) 998-8525",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2311 West Grapevine Mills Circle",
+				"city": "Grapevine",
+				"state": "Texas",
+				"zip": 76051,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jay@tpsav.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/28/80",
+		"first_name": "Timothy",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Chung",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(215) 380-8993",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "183 Newport Dr",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "timberchung@gmail.com;jk0310@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/25/78",
+		"first_name": "Kaci",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Ford",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(240) 482-6274",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "416 Glenn Drive",
+				"city": "Hurst",
+				"state": "Texas",
+				"zip": 76053,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "kacicranor@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/03/80",
+		"first_name": "Lacy",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Ruempolhamer",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(254) 413-4469",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "836 Bitternut Dr",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "latrelle3311@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/09/77",
+		"first_name": "Rick",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Wiggins",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(254) 931-7655",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "6405 Stone Lake Dr",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76179,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "rgw_atc@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/26/84",
+		"first_name": "Justin",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Grimmitt",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(256) 366-0011",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1218 Enclave Dr",
+				"city": "Arlington",
+				"state": "Texas",
+				"zip": 76011,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jgrimmitt84@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/07/63",
+		"first_name": "Neal",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Bowles",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(270) 234-4493",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1200 Main St",
+				"city": "Dallas",
+				"state": "Texas",
+				"zip": 75202,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "nabfish@sbcglobal.net;nab@cumberlandproductsinc.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/12/54",
+		"first_name": "Libbe",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Ewing",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(281) 222-7634",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "8004 Oakcrest Dr",
+				"city": "McKinney",
+				"state": "Texas",
+				"zip": 75070,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "1tmewing@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "04/04/83",
+		"first_name": "Hilary",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Morris",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(281) 500-3859",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1829 Ferguson Ct. SApt. C",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76115,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "hilary.morris@fellowshipchurch.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "04/01/98",
+		"first_name": "Jazmyn",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Sollars",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(301) 500-5017",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2702 Knoll Trl",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76039,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jazsollars@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/26/71",
+		"first_name": "Kristi",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Sagrillo",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(303) 328-7682;(303) 328-7692",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "9613 Blackpine Ct.",
+				"city": "Lantana",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ksagrillo@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/10/59",
+		"first_name": "Margie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Fralick",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(303) 349-6097",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "615 Westminster Court",
+				"city": "Coppell",
+				"state": "Texas",
+				"zip": 75019,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mlfralick@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/04/78",
+		"first_name": "Rick",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Naugle",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(305) 764-5653",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1528 Snow Bird Trl",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75077,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "stackola73@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/11/77",
+		"first_name": "Ruthy",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Encarnacion",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(305) 793-2344",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "13776 SW 114 Terrace",
+				"city": "Miami",
+				"state": "Florida",
+				"zip": 33186,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "ruthierosario@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "03/21/88",
+		"first_name": "Michael",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Singleton",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(310) 270-2956;(662) 998-2042;(863) 949-2350",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3200 Emerald St",
+				"city": "Bedford",
+				"state": "Texas",
+				"zip": 76021,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "michaelsingleton305@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/08/71",
+		"first_name": "Rose",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Binatti-Larson",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(310) 806-1808",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2221 Danielle",
+				"city": "Colleyville",
+				"state": "Texas",
+				"zip": 76034,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "rosebinatti@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "03/28/94",
+		"first_name": "Ryan",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Rich",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(314) 919-6866",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "6534 Jerrell St",
+				"city": "North Richland Hills",
+				"state": "Texas",
+				"zip": 76180,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "rnrich1024@gmail.com;musicalryan13@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/20/93",
+		"first_name": "Taylor",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "West",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Awaiting Baptism",
+		"numbers": [
+			{
+				"number": "(325) 201-5877",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "14400 Padden Park Lane",
+				"city": "Roanoke",
+				"state": "Texas",
+				"zip": 76262,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Taylorbwest15@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/23/94",
+		"first_name": "Dylan",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "West",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(325) 260-9585",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1011 Turnberry Lane",
+				"city": "Southlake",
+				"state": "Texas",
+				"zip": 76092,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "dylanwest2684@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/15/78",
+		"first_name": "Wesley",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Hughes",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(325) 370-7768",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1104 Thistle Ct",
+				"city": "Benbrook",
+				"state": "Texas",
+				"zip": 76126,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "hughesryan@mac.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/05/84",
+		"first_name": "Charity",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Murdoch",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(325) 660-0700",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "227 Moss Hill Road",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75063,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "charity.murdoch@wnco.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "07/16/77",
+		"first_name": "John",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Nestor",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(325) 716-3475",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1807 Seville Cove ",
+				"city": "Westlake ",
+				"state": "Texas",
+				"zip": 76262,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jnestor_7@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/19/95",
+		"first_name": "Christopher",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Koza",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(330) 573-8406",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "145 Austin St",
+				"city": "Keller",
+				"state": "Texas",
+				"zip": 76248,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "chriskoza13@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/06/97",
+		"first_name": "Zakiya",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Petion",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(347) 869-7998",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1440 Carrollton Parkway Apt 6205",
+				"city": "Carrollton ",
+				"state": "Texas",
+				"zip": 75010,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "mills.zakiya@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/23/84",
+		"first_name": "Derek",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Donley",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(352) 215-4920",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1340 Meadows Avenue",
+				"city": "Lantana",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "derek.donley@fellowshipchurch.com;derekdonley@me.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/17/76",
+		"first_name": "Jenel",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Berry",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(361) 739-7658",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "8404 River Bluffs Drive",
+				"city": "Arlington",
+				"state": "Texas",
+				"zip": 76002,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jenel.s.berry@gmail.com;Theberryfamily1014@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/13/82",
+		"first_name": "Marlo",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Shaw",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(405) 284-1881",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "321 River Birch Road ",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76039,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "marlo4shaw@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "03/06/75",
+		"first_name": "Roscoe",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Cartwright",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(405) 822-1906",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1440 Carrollton Pkwy",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75010,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "rcartwrightiii@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "12/15/74",
+		"first_name": "Shamien",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Labedzki",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(407) 864-8972",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1600 Mountain Laurel Dr",
+				"city": "Keller",
+				"state": "Texas",
+				"zip": 76248,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "shamien.labedzki@alcon.com;slabedzki@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/02/67",
+		"first_name": "Bernice",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Vélez",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(407) 913-1645",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1813 Amhearst Ln",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75028,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "bernice.realtor@icloud.com;pastorabernicevelez@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/20/89",
+		"first_name": "Lauren",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Flandrena",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(409) 673-2066",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3224 Lakewood lane ",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "lauren3820@aol.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "04/19/90",
+		"first_name": "Caitlin",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Matos",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(410) 935-8781",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2601 Lakeside Pkwy",
+				"city": "Flower Mound",
+				"state": "Texas",
+				"zip": 75022,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "abcaitlind@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/20/93",
+		"first_name": "Sarah",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Morris",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(417) 597-2786",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4808 Curzon Ave",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76107,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "smorris112313@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "05/08/68",
+		"first_name": "Darla",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Hunt",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(417) 598-1119",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2453  Boot Jack Road",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76177,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "darla5868@msn.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "11/03/98",
+		"first_name": "Hadley",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "McIvor",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(432) 249-1440",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "275 E. Vista Ridge Mall Drive",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "hdlmcivor@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "01/22/58",
+		"first_name": "Dave",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Wysor",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(443) 538-5506",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "6316 Cupleaf Rd",
+				"city": "Argyle",
+				"state": "Texas",
+				"zip": 76226,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "dwysor@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/29/76",
+		"first_name": "Wade",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Williams",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 212-6540",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "804 Hidden Woods Dr.",
+				"city": "Keller",
+				"state": "Texas",
+				"zip": 76248,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "Wadewilliams76@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "07/01/82",
+		"first_name": "Brandy",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Tyree",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 223-1071",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "12733 Beech Tree Lane",
+				"city": "Euless",
+				"state": "Texas",
+				"zip": 76040,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "brandytyree81@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/06/80",
+		"first_name": "Jessica",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Morfin",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 223-4550",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "1100 W. Trinity Mils ",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75006,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jmorfin8020@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "09/20/70",
+		"first_name": "Melanie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Hartmann",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 231-3166",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "13200 Poppy Hill Lane",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76244,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "melanieh@rmdfw.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/03/80",
+		"first_name": "Kimberly",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Hightower",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 231-3515",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "300 E Round Grove Rd",
+				"city": "Lewisville",
+				"state": "Texas",
+				"zip": 75067,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "bravo0424@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "08/10/77",
+		"first_name": "Jaime",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Pelayo",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 235-5011",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4021 Carolyn Rd",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76109,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "thejaimepelayo@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/14/85",
+		"first_name": "Kalinda",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Witty",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Awaiting Baptism",
+		"numbers": [
+			{
+				"number": "(469) 236-3551",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3948 Long Hollow Road",
+				"city": "Roanoke",
+				"state": "Texas",
+				"zip": 76262,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "wittykk@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "07/11/00",
+		"first_name": "Kailey",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Umphenour",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 237-6538",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3152 Longbow Drive",
+				"city": "Grand Prairie",
+				"state": "Texas",
+				"zip": 75052,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "kumphenour00@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "02/14/97",
+		"first_name": "Harrison",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Prentice",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Attendee",
+		"numbers": [
+			{
+				"number": "(469) 247-2251",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "930 Eagle Creek Trail",
+				"city": "McKinney",
+				"state": "Texas",
+				"zip": 75072,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "phprentice321@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "10/30/84",
+		"first_name": "Chelsey",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Weaver",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 247-7139",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "11123 Cerrillos Drive",
+				"city": "Frisco",
+				"state": "Texas",
+				"zip": 75035,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "chelsey@oils2boot.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "02/26/88",
+		"first_name": "Stephanie",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Nessenthaler",
+		"marital_status": "Single",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 254-3164",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Ms.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "4455 Thornton Street",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76106,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "stephanie.nessenthaler@yahoo.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "01/31/87",
+		"first_name": "Jessica",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Martinez",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 254-5328",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3221 Keller Springs Rd",
+				"city": "Carrollton",
+				"state": "Texas",
+				"zip": 75006,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "jessicamartinez1229@hotmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "10/27/78",
+		"first_name": "Dan",
+		"full_name": "",
+		"gender": "M",
+		"image": "",
+		"last_name": "Newhard",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 263-8335",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mr.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "9016 Sagewood Dr.",
+				"city": "Fort Worth",
+				"state": "Texas",
+				"zip": 76177,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "dnewhard171@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": true,
+		"birthdate": "08/06/95",
+		"first_name": "Jessica",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Lara",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 274-7619",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "3319 Esters Rd",
+				"city": "Irving",
+				"state": "Texas",
+				"zip": 75062,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "larajessica979@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	},
+	{
+		"active_user": true,
+		"background_check_clear": false,
+		"birthdate": "09/24/91",
+		"first_name": "Hillary",
+		"full_name": "",
+		"gender": "F",
+		"image": "",
+		"last_name": "Maynard",
+		"marital_status": "Married",
+		"medical_notes": "",
+		"membership_status": "Member",
+		"numbers": [
+			{
+				"number": "(469) 285-2896",
+				"primary": true,
+				"type": "Mobile"
+			}
+		],
+		"prefix": "Mrs.",
+		"primary_campus": "campuses/CDdxVIvoQUoSsI7ijK1z",
+		"addresses": [
+			{
+				"street": "2110 Westchester Dr",
+				"city": "Haltom City",
+				"state": "Texas",
+				"zip": 76117,
+				"primary": true,
+				"type": "Home"
+			}
+		],
+		"emails": [
+			{
+				"address": "hillary.maynard9@gmail.com",
+				"primary": true,
+				"type": "Home"
+			}
+		]
+	}
+]

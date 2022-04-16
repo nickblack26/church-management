@@ -1,0 +1,53 @@
+.pageWrap {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	height: 100vh;
+}
+
+.loginDecoration {
+	border-radius: 0rem 0.25rem 0.25rem 0rem;
+	background-color: #3b67c3;
+}
+
+.loginWrap {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	max-width: 350px;
+	margin-inline: auto;
+	text-align: center;
+	gap: 2rem;
+}
+
+.loginPageTitle {
+	margin-block: 1rem;
+	font-size: 2rem;
+	color: '#403F49';
+}
+
+.loginPageSubtitle {
+	color: hsl(240, 10%, 65%);
+}
+
+.sectionWrap {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	gap: 1rem;
+}
+
+.loginFormContent {
+	display: flex;
+	flex-direction: column;
+	gap: 1rem;
+}
+
+.loginButton {
+	background: var(--primary-color);
+	color: #ffffff;
+}
+
+.googleButton {
+	color: hsl(240, 10%, 65%);
+}

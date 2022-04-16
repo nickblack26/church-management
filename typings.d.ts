@@ -1,4 +1,26 @@
-import { ObjectId } from 'mongodb';
+interface Member {
+	id?: string;
+	prefix: 'Mr.' | 'Ms.' | 'Mrs.' | 'Dr.';
+	first_name: string;
+	last_name: string;
+	full_name: string;
+	birthdate: Date;
+	gender: 'M' | 'F';
+	marital_status: 'Single' | 'Married' | 'Widowed';
+	active_user: boolean;
+	membership_status: 'Attendee' | 'Member';
+	medical_notes: string | null;
+	primary_campus: ObjectId;
+	addresses: [Address];
+	emails: [Email];
+	image: string;
+	numbers: [Number];
+	background_check_clear: boolean;
+}
+
+export interface Members {
+	members: [Member];
+}
 
 export interface Email {
 	address: string;
@@ -55,6 +77,8 @@ interface Church {
 	website: string;
 	campuses: Array<Campus>;
 	events: Array<Event>;
+	members: Array<Member>;
+	ministries: Array<Ministry>;
 }
 
 export interface Churches {
@@ -80,26 +104,6 @@ export interface Events {
 	events: [Event];
 }
 
-interface Member {
-	_id: string;
-	prefix: 'Mr.' | 'Ms.' | 'Mrs.' | 'Dr.';
-	first_name: string;
-	last_name: string;
-	full_name: string;
-	birthdate: Date;
-	gender: 'M' | 'F';
-	marrital_status: 'Single' | 'Married' | 'Widowed';
-	active_user: true | false;
-	membership_status: 'Attendee' | 'Member';
-	medicalNotes: string | null;
-	primary_campus: ObjectId;
-	addresses: [Address];
-	emails: [Email];
-	image: string;
-	numbers: [Number];
-	background_check_clear: true | false;
-}
-
-export interface Members {
-	members: [Member];
+export interface Ministry {
+	name: string;
 }
